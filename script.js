@@ -3,7 +3,7 @@
 // Secret Code: 2026
 // =============================
 
-const PASSWORD = "1234";
+const PASSWORD = "ziya";
 
 const input = document.getElementById("password");
 const button = document.getElementById("unlockBtn");
